@@ -28,7 +28,7 @@ Monthly Sales figures from January 2020 to July 2021
 ## The Dashboard
 
 <p align=center>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="500" height="400">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="500" height="300">
 </p>
 
 ###### Note:
