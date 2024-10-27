@@ -4,7 +4,7 @@
 To build a dashboard in Excel that can be used to filter by region, track monthly revenue trends and YoY performance, Best performing and least performing stores and products. 
 
 <p align=center>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Email.png" width="400" height="400">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Email.png" width="500" height="400">
 </p>
 
 ## Data Summary:
@@ -25,10 +25,10 @@ Monthly Sales figures from January 2020 to July 2021
 5. Create primary & supporting visuals
 6. Design the Dashboard
 
-## Final Look
+## The Dashboard
 
 <p align=center>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="400" height="400">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="500" height="400">
 </p>
 
 ###### Note:
