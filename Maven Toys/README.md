@@ -24,7 +24,7 @@ Monthly Sales figures from January 2020 to July 2021
 
 ## Final Look
 
-![Dashboard](../Excel/blob/main/Maven%20Toys/Dashboard.png)
+![Dashboard](/Excel/Maven%Toys/Dashboard.png)
 
 ###### Note:
 Please click :point_right: [here](https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/MavenToys_Monthly_Sales.xlsx) to download the file and interact with the dashboard.
