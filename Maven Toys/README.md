@@ -2,7 +2,9 @@
 
 ## Task: To build a dashboard in Excel that can be used to filter by region, track monthly revenue trends and YoY performance, Best performing and least performing stores and products. 
 
-<img align=center src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="100">
+<p align=center>
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Email.png" width="400">
+</p>
 
 ## Data Summary:
 Monthly Sales figures from January 2020 to July 2021
