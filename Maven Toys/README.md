@@ -1,9 +1,10 @@
 # Sales Analysis for Maven Toys
 
-## Task: To build a dashboard in Excel that can be used to filter by region, track monthly revenue trends and YoY performance, Best performing and least performing stores and products. 
+## Task:
+To build a dashboard in Excel that can be used to filter by region, track monthly revenue trends and YoY performance, Best performing and least performing stores and products. 
 
 <p align=center>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Email.png" width="400">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Email.png" width="400" height="400">
 </p>
 
 ## Data Summary:
@@ -26,7 +27,9 @@ Monthly Sales figures from January 2020 to July 2021
 
 ## Final Look
 
-![Dashboard](https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png  | width = 100))
+<p align=center>
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="400" height="400">
+</p>
 
 ###### Note:
 Please click :point_right: [here](https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/MavenToys_Monthly_Sales.xlsx) to download the file and interact with the dashboard.
