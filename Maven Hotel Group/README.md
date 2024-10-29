@@ -23,7 +23,7 @@ MS Excel: Pivot Table, Pivot Charts, Data Analysis
 
 ## 📊 Dashboard
 <p align=center>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Hotel%20Group/Dashboard.png" width="600" height="450">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Hotel%20Group/Dashboard.png" width="600" height="400">
 </p>
 
 ## 💡Insights:
