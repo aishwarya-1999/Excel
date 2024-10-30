@@ -21,11 +21,11 @@ Monthly Sales figures from January 2020 to July 2021
 
 ## 📊The Dashboards:
 <p align=center>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="650" height="420">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard.png" width="480" height="320">
   <br>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard2.png" width="650" height="420">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard2.png" width="480" height="320">
   <br>
-  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard3.png" width="650" height="420">
+  <img src="https://github.com/aishwarya-1999/Excel/blob/main/Maven%20Toys/Dashboard3.png" width="480" height="320">
 </p>
 
 ## 💰 Regional Performance Overview
