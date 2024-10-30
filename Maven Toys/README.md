@@ -17,7 +17,7 @@ Monthly Sales figures from January 2020 to July 2021
 * Dimensions: Year, Month, Store Name/ Region/Type, Product Name/Category
 * Measures: Units Sold, Revenue, Profit
 
-## Skills Used:
+## 💭 Skills Used:
 MS Excel: Data Cleaning, Advanced Formulae, Data Analysis, Dashboards
 
 ## 📊The Dashboards:
